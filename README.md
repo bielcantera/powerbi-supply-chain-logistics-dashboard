@@ -60,7 +60,7 @@ The Power BI report is organized into multiple interactive sections, accessible 
 - Detailed tabular view for carrier-level and operational analysis
 - Designed for filtering, sorting, and drill-down exploration
 
-Representative screenshots of each section are available in the `screenshots/` folder.
+Representative screenshots of the dashboard are available in the `screenshots/` folder.
 
 ---
 
